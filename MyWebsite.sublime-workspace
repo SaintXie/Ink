@@ -1,0 +1,1476 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"hi",
+				"height"
+			],
+			[
+				"offi",
+				"office365"
+			],
+			[
+				"ch",
+				"chance"
+			],
+			[
+				"ge",
+				"get_value"
+			],
+			[
+				"get",
+				"get_pipe_name"
+			],
+			[
+				"re",
+				"reset_items"
+			],
+			[
+				"res",
+				"reset_pipe"
+			],
+			[
+				"p",
+				"pipe_names"
+			],
+			[
+				"pi",
+				"pipe_name"
+			],
+			[
+				"pipe",
+				"pipe_names"
+			],
+			[
+				"op",
+				"operation"
+			],
+			[
+				"col",
+				"color"
+			],
+			[
+				"rese",
+				"reset_items"
+			],
+			[
+				"titl",
+				"title_name"
+			],
+			[
+				"file",
+				"file_contents_new"
+			],
+			[
+				"fil",
+				"file_contents"
+			],
+			[
+				"val",
+				"value_new"
+			],
+			[
+				"ti",
+				"title_name"
+			],
+			[
+				"pip",
+				"pipe_number"
+			],
+			[
+				"file_",
+				"file_contents"
+			],
+			[
+				"xl",
+				"xl2"
+			],
+			[
+				"x",
+				"xml-declaration\tXML Declaration"
+			],
+			[
+				"t",
+				"time"
+			],
+			[
+				"i",
+				"infromation"
+			],
+			[
+				"in",
+				"infromation"
+			],
+			[
+				"authors_",
+				"authors_list"
+			],
+			[
+				"give",
+				"give_1"
+			],
+			[
+				"take",
+				"take_job"
+			],
+			[
+				"fake",
+				"fake_ip"
+			],
+			[
+				"json",
+				"json_data"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "html/all.html",
+			"settings":
+			{
+				"buffer_size": 7076,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			},
+			"undo_stack":
+			[
+				[
+					13,
+					1,
+					"insert",
+					{
+						"characters": "\n"
+					},
+					"AQAAALERAAAAAAAAtBEAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAsREAAAAAAACxEQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					15,
+					1,
+					"paste",
+					null,
+					"AQAAALIRAAAAAAAASxMAAAAAAAADAAAACQkK",
+					"AQAAAAAAAAABAAAAshEAAAAAAAC1EQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					24,
+					1,
+					"insert",
+					{
+						"characters": "-"
+					},
+					"BAAAADUTAAAAAAAANhMAAAAAAAAAAAAAIhMAAAAAAAAjEwAAAAAAAAAAAAADEwAAAAAAAAQTAAAAAAAAAAAAAOERAAAAAAAA4hEAAAAAAAAAAAAA",
+					"AQAAAAAAAAAEAAAA4REAAAAAAADhEQAAAAAAAAAAAAAAAPC/AxMAAAAAAAADEwAAAAAAAAAAAAAAAPC/IhMAAAAAAAAiEwAAAAAAAAAAAAAAAPC/NRMAAAAAAAA1EwAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					28,
+					1,
+					"sequence",
+					{
+						"commands":
+						[
+						]
+					},
+					"EAAAAOIRAAAAAAAA4xEAAAAAAAAAAAAABhMAAAAAAAAHEwAAAAAAAAAAAAAnEwAAAAAAACgTAAAAAAAAAAAAADwTAAAAAAAAPRMAAAAAAAAAAAAA4hEAAAAAAADkEQAAAAAAAAEAAABnBxMAAAAAAAAJEwAAAAAAAAEAAABnKRMAAAAAAAArEwAAAAAAAAEAAABnPxMAAAAAAABBEwAAAAAAAAEAAABn4hEAAAAAAADlEQAAAAAAAAIAAABnYQgTAAAAAAAACxMAAAAAAAACAAAAZ2ErEwAAAAAAAC4TAAAAAAAAAgAAAGdhQhMAAAAAAABFEwAAAAAAAAIAAABnYeIRAAAAAAAA4xEAAAAAAAADAAAAZ2FpBhMAAAAAAAAHEwAAAAAAAAMAAABnYWknEwAAAAAAACgTAAAAAAAAAwAAAGdhaTwTAAAAAAAAPRMAAAAAAAADAAAAZ2Fp",
+					"AQAAAAAAAAAEAAAA4hEAAAAAAADiEQAAAAAAAAAAAAAAAPC/BRMAAAAAAAAFEwAAAAAAAAAAAAAAAPC/JRMAAAAAAAAlEwAAAAAAAAAAAAAAAPC/ORMAAAAAAAA5EwAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					31,
+					1,
+					"left_delete",
+					null,
+					"AQAAAK0SAAAAAAAArRIAAAAAAABUAAAACQkJPHAgY2xhc3M9InRleHQiPuiZveivtOaUueeahOmVv+W+l+S4jeWDj+iHrem8rOS6hu+8jOS9huaEn+inieacieeCueS4keKApuKApjwvcD4K",
+					"AQAAAAAAAAABAAAArRIAAAAAAADZEgAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					34,
+					1,
+					"left_delete",
+					null,
+					"AQAAAHISAAAAAAAAchIAAAAAAAABAAAANw",
+					"AQAAAAAAAAABAAAAcxIAAAAAAABzEgAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					35,
+					1,
+					"insert",
+					{
+						"characters": "8"
+					},
+					"AQAAAHISAAAAAAAAcxIAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAchIAAAAAAAByEgAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					37,
+					1,
+					"left_delete",
+					null,
+					"AQAAAHUSAAAAAAAAdRIAAAAAAAABAAAAMg",
+					"AQAAAAAAAAABAAAAdhIAAAAAAAB2EgAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					38,
+					1,
+					"insert",
+					{
+						"characters": "4"
+					},
+					"AQAAAHUSAAAAAAAAdhIAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAdRIAAAAAAAB1EgAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					41,
+					2,
+					"left_delete",
+					null,
+					"AgAAAGgSAAAAAAAAaBIAAAAAAAADAAAA5oiQZxIAAAAAAABnEgAAAAAAAAMAAADlrow",
+					"AQAAAAAAAAABAAAAaRIAAAAAAABpEgAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					48,
+					1,
+					"sequence",
+					{
+						"commands":
+						[
+						]
+					},
+					"BwAAAGcSAAAAAAAAaBIAAAAAAAAAAAAAZxIAAAAAAABpEgAAAAAAAAEAAAB4ZxIAAAAAAABqEgAAAAAAAAIAAAB4aWcSAAAAAAAAbBIAAAAAAAADAAAAeGl1ZxIAAAAAAABtEgAAAAAAAAUAAAB4aXUnZ2cSAAAAAAAAbhIAAAAAAAAGAAAAeGl1J2dhZxIAAAAAAABpEgAAAAAAAAcAAAB4aXUnZ2Fp",
+					"AQAAAAAAAAABAAAAZxIAAAAAAABnEgAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					55,
+					1,
+					"sequence",
+					{
+						"commands":
+						[
+						]
+					},
+					"BQAAAI4SAAAAAAAAjxIAAAAAAABOAAAA5Li76KaB6YeN57uY5LqG6Z2i6YOo5Lul5Y+K6IKJ5Z6r77yM5L+u5q2j5LqG6YOo5YiG6Iqx57q55LiN5ZCI55CG55qE5Zyw5pa544CCjhIAAAAAAACQEgAAAAAAAAEAAAB6jhIAAAAAAACSEgAAAAAAAAIAAAB6aY4SAAAAAAAAkxIAAAAAAAAEAAAAemknao4SAAAAAAAAkBIAAAAAAAAFAAAAemknamk",
+					"AQAAAAAAAAABAAAAqBIAAAAAAACOEgAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					64,
+					1,
+					"sequence",
+					{
+						"commands":
+						[
+						]
+					},
+					"CQAAAJASAAAAAAAAkRIAAAAAAAAAAAAAkBIAAAAAAACSEgAAAAAAAAEAAABjkBIAAAAAAACUEgAAAAAAAAIAAABjYZASAAAAAAAAlRIAAAAAAAAEAAAAY2EnZJASAAAAAAAAlxIAAAAAAAAFAAAAY2EnZGmQEgAAAAAAAJcSAAAAAAAABwAAAGNhJ2RpJ2GQEgAAAAAAAJkSAAAAAAAABwAAAGNhJ2RpYW+QEgAAAAAAAJoSAAAAAAAACQAAAGNhJ2RpYW8nbJASAAAAAAAAkxIAAAAAAAAKAAAAY2EnZGlhbydsZQ",
+					"AQAAAAAAAAABAAAAkBIAAAAAAACQEgAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					72,
+					1,
+					"sequence",
+					{
+						"commands":
+						[
+						]
+					},
+					"CAAAAJMSAAAAAAAAlBIAAAAAAAAAAAAAkxIAAAAAAACVEgAAAAAAAAEAAAB5kxIAAAAAAACXEgAAAAAAAAIAAAB5aZMSAAAAAAAAmBIAAAAAAAAEAAAAeWknYpMSAAAAAAAAmhIAAAAAAAAFAAAAeWknYnWTEgAAAAAAAJsSAAAAAAAABwAAAHlpJ2J1J2aTEgAAAAAAAJwSAAAAAAAACAAAAHlpJ2J1J2ZlkxIAAAAAAACWEgAAAAAAAAkAAAB5aSdidSdmZW4",
+					"AQAAAAAAAAABAAAAkxIAAAAAAACTEgAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					84,
+					1,
+					"sequence",
+					{
+						"commands":
+						[
+						]
+					},
+					"DAAAAJYSAAAAAAAAlxIAAAAAAAAAAAAAlhIAAAAAAACYEgAAAAAAAAEAAABslhIAAAAAAACZEgAAAAAAAAIAAABsaZYSAAAAAAAAmhIAAAAAAAADAAAAbGlhlhIAAAAAAACcEgAAAAAAAAQAAABsaWFulhIAAAAAAACdEgAAAAAAAAYAAABsaWFuJ3OWEgAAAAAAAJ4SAAAAAAAABwAAAGxpYW4nc2iWEgAAAAAAAJ8SAAAAAAAACAAAAGxpYW4nc2hhlhIAAAAAAACgEgAAAAAAAAkAAABsaWFuJ3NoYW6WEgAAAAAAAKISAAAAAAAACgAAAGxpYW4nc2hhbmeWEgAAAAAAAKMSAAAAAAAADAAAAGxpYW4nc2hhbmcnZJYSAAAAAAAAmRIAAAAAAAANAAAAbGlhbidzaGFuZydkZQ",
+					"AQAAAAAAAAABAAAAlhIAAAAAAACWEgAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					85,
+					3,
+					"left_delete",
+					null,
+					"AwAAAJgSAAAAAAAAmBIAAAAAAAADAAAA55qElxIAAAAAAACXEgAAAAAAAAMAAADkuIqWEgAAAAAAAJYSAAAAAAAAAwAAAOiEuA",
+					"AQAAAAAAAAABAAAAmRIAAAAAAACZEgAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					90,
+					1,
+					"sequence",
+					{
+						"commands":
+						[
+						]
+					},
+					"BQAAAJYSAAAAAAAAlxIAAAAAAAAAAAAAlhIAAAAAAACYEgAAAAAAAAEAAABilhIAAAAAAACaEgAAAAAAAAIAAABiaZYSAAAAAAAAmxIAAAAAAAAEAAAAYmknepYSAAAAAAAAmBIAAAAAAAAFAAAAYmknemk",
+					"AQAAAAAAAAABAAAAlhIAAAAAAACWEgAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					97,
+					1,
+					"sequence",
+					{
+						"commands":
+						[
+						]
+					},
+					"BwAAAJgSAAAAAAAAmRIAAAAAAAAAAAAAmBIAAAAAAACaEgAAAAAAAAEAAABqmBIAAAAAAACbEgAAAAAAAAIAAABqaZgSAAAAAAAAnRIAAAAAAAADAAAAamllmBIAAAAAAACeEgAAAAAAAAUAAABqaWUnZ5gSAAAAAAAAnxIAAAAAAAAGAAAAamllJ2dvmBIAAAAAAACaEgAAAAAAAAcAAABqaWUnZ291",
+					"AQAAAAAAAAABAAAAmBIAAAAAAACYEgAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					98,
+					1,
+					"",
+					null,
+					"AQAAAJoSAAAAAAAAmxIAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAmhIAAAAAAACaEgAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					99,
+					1,
+					"left_delete",
+					null,
+					"AQAAAJoSAAAAAAAAmhIAAAAAAAADAAAA77yM",
+					"AQAAAAAAAAABAAAAmxIAAAAAAACbEgAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					100,
+					1,
+					"",
+					null,
+					"AQAAAJoSAAAAAAAAmxIAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAmhIAAAAAAACaEgAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					105,
+					1,
+					"sequence",
+					{
+						"commands":
+						[
+						]
+					},
+					"BQAAAJsSAAAAAAAAnBIAAAAAAAAAAAAAmxIAAAAAAACdEgAAAAAAAAEAAAB5mxIAAAAAAACfEgAAAAAAAAIAAAB5aZsSAAAAAAAAoBIAAAAAAAAEAAAAeWknapsSAAAAAAAAnRIAAAAAAAAFAAAAeWknamk",
+					"AQAAAAAAAAABAAAAmxIAAAAAAACbEgAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					108,
+					1,
+					"sequence",
+					{
+						"commands":
+						[
+						]
+					},
+					"AwAAAJ0SAAAAAAAAnhIAAAAAAAAAAAAAnRIAAAAAAACfEgAAAAAAAAEAAABinRIAAAAAAACeEgAAAAAAAAIAAABiYQ",
+					"AQAAAAAAAAABAAAAnRIAAAAAAACdEgAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					113,
+					1,
+					"sequence",
+					{
+						"commands":
+						[
+						]
+					},
+					"BQAAAJ4SAAAAAAAAnxIAAAAAAAAAAAAAnhIAAAAAAACgEgAAAAAAAAEAAAB5nhIAAAAAAAChEgAAAAAAAAIAAAB5YZ4SAAAAAAAAoxIAAAAAAAADAAAAeWFunhIAAAAAAACgEgAAAAAAAAUAAAB5YW4nag",
+					"AQAAAAAAAAABAAAAnhIAAAAAAACeEgAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					121,
+					1,
+					"sequence",
+					{
+						"commands":
+						[
+						]
+					},
+					"CAAAAKASAAAAAAAAoRIAAAAAAAAAAAAAoBIAAAAAAACiEgAAAAAAAAEAAAB3oBIAAAAAAACjEgAAAAAAAAIAAAB3YaASAAAAAAAApBIAAAAAAAADAAAAd2FuoBIAAAAAAACmEgAAAAAAAAQAAAB3YW5noBIAAAAAAACnEgAAAAAAAAYAAAB3YW5nJ3igEgAAAAAAAKgSAAAAAAAABwAAAHdhbmcneGmgEgAAAAAAAKISAAAAAAAACAAAAHdhbmcneGlh",
+					"AQAAAAAAAAABAAAAoBIAAAAAAACgEgAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					128,
+					1,
+					"sequence",
+					{
+						"commands":
+						[
+						]
+					},
+					"BwAAAKISAAAAAAAAoxIAAAAAAAAAAAAAohIAAAAAAACkEgAAAAAAAAEAAAB0ohIAAAAAAACmEgAAAAAAAAIAAAB0aaISAAAAAAAAphIAAAAAAAAEAAAAdGknYaISAAAAAAAAqBIAAAAAAAAEAAAAdGlhb6ISAAAAAAAAqRIAAAAAAAAGAAAAdGlhbydsohIAAAAAAACkEgAAAAAAAAcAAAB0aWFvJ2xl",
+					"AQAAAAAAAAABAAAAohIAAAAAAACiEgAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					135,
+					1,
+					"sequence",
+					{
+						"commands":
+						[
+						]
+					},
+					"BwAAAKQSAAAAAAAApRIAAAAAAAAAAAAApBIAAAAAAACmEgAAAAAAAAEAAAB5pBIAAAAAAACoEgAAAAAAAAIAAAB5aaQSAAAAAAAAqRIAAAAAAAAEAAAAeWknZKQSAAAAAAAAqhIAAAAAAAAFAAAAeWknZGmkEgAAAAAAAKsSAAAAAAAABgAAAHlpJ2RpYaQSAAAAAAAAphIAAAAAAAAHAAAAeWknZGlhbg",
+					"AQAAAAAAAAABAAAApBIAAAAAAACkEgAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					136,
+					1,
+					"",
+					null,
+					"AQAAAKYSAAAAAAAApxIAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAphIAAAAAAACmEgAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					145,
+					1,
+					"sequence",
+					{
+						"commands":
+						[
+						]
+					},
+					"CQAAAKcSAAAAAAAAqBIAAAAAAAAAAAAApxIAAAAAAACpEgAAAAAAAAEAAABrpxIAAAAAAACrEgAAAAAAAAIAAABrZacSAAAAAAAArBIAAAAAAAAEAAAAa2UnYacSAAAAAAAArhIAAAAAAAAFAAAAa2UnYWmnEgAAAAAAAK8SAAAAAAAABwAAAGtlJ2FpJ2SnEgAAAAAAALASAAAAAAAACAAAAGtlJ2FpJ2R1pxIAAAAAAACyEgAAAAAAAAkAAABrZSdhaSdkdW+nEgAAAAAAAKsSAAAAAAAACwAAAGtlJ2FpJ2R1byds",
+					"AQAAAAAAAAABAAAApxIAAAAAAACnEgAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					146,
+					1,
+					"",
+					null,
+					"AQAAAKsSAAAAAAAArBIAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAqxIAAAAAAACrEgAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					157,
+					1,
+					"insert",
+					{
+						"characters": "\n"
+					},
+					"AQAAACoTAAAAAAAALRMAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAKhMAAAAAAAAqEwAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					159,
+					1,
+					"paste",
+					null,
+					"AQAAACsTAAAAAAAAjxQAAAAAAAADAAAACQkK",
+					"AQAAAAAAAAABAAAAKxMAAAAAAAAuEwAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					162,
+					1,
+					"insert",
+					{
+						"characters": "-"
+					},
+					"AQAAAFQTAAAAAAAAVRMAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAVBMAAAAAAABUEwAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					166,
+					1,
+					"sequence",
+					{
+						"commands":
+						[
+						]
+					},
+					"BAAAAFUTAAAAAAAAVhMAAAAAAAAAAAAAVRMAAAAAAABXEwAAAAAAAAEAAABnVRMAAAAAAABYEwAAAAAAAAIAAABnYVUTAAAAAAAAVhMAAAAAAAADAAAAZ2Fp",
+					"AQAAAAAAAAABAAAAVRMAAAAAAABVEwAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					172,
+					1,
+					"paste",
+					null,
+					"AQAAAMcTAAAAAAAA7hMAAAAAAAAxAAAACQkJPHAgY2xhc3M9InRleHQiPuWujOaIkOaXpeacn++8mjIwMjUtMDctMjk8L3A+Cg",
+					"AQAAAAAAAAABAAAAxxMAAAAAAADuEwAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					184,
+					1,
+					"sequence",
+					{
+						"commands":
+						[
+						]
+					},
+					"CgAAAAEUAAAAAAAAAhQAAAAAAAB7AAAA5oSf6KeJ6L+Z5Liq55S75biI55S755qE5q2j6IS45LiN5aSq5aW955yL77yM5bCx5oOz552A5o2i5Liq6KeS5bqm6K+V6K+V77yM57uT5p6c5L6n6IS45Lmf5LiN5aW955yL4oCm4oCm5pyJ54K55bSp5rqD4oCm4oCmARQAAAAAAAADFAAAAAAAAAEAAABzARQAAAAAAAAEFAAAAAAAAAIAAABzdQEUAAAAAAAABhQAAAAAAAADAAAAc3VvARQAAAAAAAAHFAAAAAAAAAUAAABzdW8nZAEUAAAAAAAACBQAAAAAAAAGAAAAc3VvJ2R1ARQAAAAAAAAJFAAAAAAAAAcAAABzdW8nZHVhARQAAAAAAAALFAAAAAAAAAgAAABzdW8nZHVhbgEUAAAAAAAADBQAAAAAAAAKAAAAc3VvJ2R1YW4nbAEUAAAAAAAABBQAAAAAAAALAAAAc3VvJ2R1YW4nbGU",
+					"AQAAAAAAAAABAAAAARQAAAAAAAAqFAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					190,
+					1,
+					"sequence",
+					{
+						"commands":
+						[
+						]
+					},
+					"BgAAAAQUAAAAAAAABRQAAAAAAAAAAAAABBQAAAAAAAAGFAAAAAAAAAEAAAB5BBQAAAAAAAAIFAAAAAAAAAIAAAB5aQQUAAAAAAAACRQAAAAAAAAEAAAAeWkneAQUAAAAAAAAChQAAAAAAAAFAAAAeWkneGkEFAAAAAAAAAYUAAAAAAAABgAAAHlpJ3hpZQ",
+					"AQAAAAAAAAABAAAABBQAAAAAAAAEFAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					195,
+					1,
+					"sequence",
+					{
+						"commands":
+						[
+						]
+					},
+					"BQAAAAYUAAAAAAAABxQAAAAAAAAAAAAABhQAAAAAAAAIFAAAAAAAAAEAAABiBhQAAAAAAAAKFAAAAAAAAAIAAABiaQYUAAAAAAAACxQAAAAAAAAEAAAAYmknegYUAAAAAAAACBQAAAAAAAAFAAAAYmknemk",
+					"AQAAAAAAAAABAAAABhQAAAAAAAAGFAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					198,
+					1,
+					"sequence",
+					{
+						"commands":
+						[
+						]
+					},
+					"AwAAAAgUAAAAAAAACRQAAAAAAAAAAAAACBQAAAAAAAAKFAAAAAAAAAEAAABkCBQAAAAAAAAJFAAAAAAAAAIAAABkZQ",
+					"AQAAAAAAAAABAAAACBQAAAAAAAAIFAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					206,
+					1,
+					"sequence",
+					{
+						"commands":
+						[
+						]
+					},
+					"CAAAAAkUAAAAAAAAChQAAAAAAAAAAAAACRQAAAAAAAALFAAAAAAAAAEAAABjCRQAAAAAAAAMFAAAAAAAAAIAAABjaAkUAAAAAAAADRQAAAAAAAADAAAAY2hhCRQAAAAAAAAOFAAAAAAAAAQAAABjaGFuCRQAAAAAAAAQFAAAAAAAAAUAAABjaGFuZwkUAAAAAAAAERQAAAAAAAAHAAAAY2hhbmcnZAkUAAAAAAAACxQAAAAAAAAIAAAAY2hhbmcnZHU",
+					"AQAAAAAAAAABAAAACRQAAAAAAAAJFAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					207,
+					1,
+					"",
+					null,
+					"AQAAAAsUAAAAAAAADBQAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAACxQAAAAAAAALFAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					212,
+					1,
+					"sequence",
+					{
+						"commands":
+						[
+						]
+					},
+					"BQAAAAwUAAAAAAAADRQAAAAAAAAAAAAADBQAAAAAAAAOFAAAAAAAAAEAAAB5DBQAAAAAAAAQFAAAAAAAAAIAAAB5aQwUAAAAAAAAERQAAAAAAAAEAAAAeWknagwUAAAAAAAADhQAAAAAAAAFAAAAeWknamk",
+					"AQAAAAAAAAABAAAADBQAAAAAAAAMFAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					220,
+					1,
+					"sequence",
+					{
+						"commands":
+						[
+						]
+					},
+					"CAAAAA4UAAAAAAAADxQAAAAAAAAAAAAADhQAAAAAAAAQFAAAAAAAAAEAAAByDhQAAAAAAAASFAAAAAAAAAIAAAByaQ4UAAAAAAAAExQAAAAAAAAEAAAAcmknYw4UAAAAAAAAFBQAAAAAAAAFAAAAcmknY2gOFAAAAAAAABUUAAAAAAAABgAAAHJpJ2NoYQ4UAAAAAAAAFhQAAAAAAAAHAAAAcmknY2hhbg4UAAAAAAAAEBQAAAAAAAAIAAAAcmknY2hhbmc",
+					"AQAAAAAAAAABAAAADhQAAAAAAAAOFAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					223,
+					1,
+					"sequence",
+					{
+						"commands":
+						[
+						]
+					},
+					"AwAAABAUAAAAAAAAERQAAAAAAAAAAAAAEBQAAAAAAAASFAAAAAAAAAEAAABiEBQAAAAAAAARFAAAAAAAAAIAAABiYQ",
+					"AQAAAAAAAAABAAAAEBQAAAAAAAAQFAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					231,
+					1,
+					"sequence",
+					{
+						"commands":
+						[
+						]
+					},
+					"CAAAABEUAAAAAAAAEhQAAAAAAAAAAAAAERQAAAAAAAATFAAAAAAAAAEAAAB5ERQAAAAAAAAUFAAAAAAAAAIAAAB5YREUAAAAAAAAFhQAAAAAAAADAAAAeWFuERQAAAAAAAAXFAAAAAAAAAUAAAB5YW4nahEUAAAAAAAAGBQAAAAAAAAGAAAAeWFuJ2ppERQAAAAAAAAZFAAAAAAAAAcAAAB5YW4namluERQAAAAAAAATFAAAAAAAAAgAAAB5YW4namluZw",
+					"AQAAAAAAAAABAAAAERQAAAAAAAARFAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					245,
+					1,
+					"sequence",
+					{
+						"commands":
+						[
+						]
+					},
+					"DQAAABMUAAAAAAAAFBQAAAAAAAAAAAAAExQAAAAAAAAVFAAAAAAAAAEAAAB3ExQAAAAAAAAWFAAAAAAAAAIAAAB3YRMUAAAAAAAAFxQAAAAAAAADAAAAd2FuExQAAAAAAAAZFAAAAAAAAAQAAAB3YW5nExQAAAAAAAAaFAAAAAAAAAYAAAB3YW5nJ3gTFAAAAAAAABsUAAAAAAAABwAAAHdhbmcneGkTFAAAAAAAAB0UAAAAAAAACAAAAHdhbmcneGlhExQAAAAAAAAeFAAAAAAAAAoAAAB3YW5nJ3hpYSd0ExQAAAAAAAAfFAAAAAAAAAsAAAB3YW5nJ3hpYSd0aRMUAAAAAAAAIBQAAAAAAAAMAAAAd2FuZyd4aWEndGlhExQAAAAAAAAZFAAAAAAAAA0AAAB3YW5nJ3hpYSd0aWFvExQAAAAAAAAWFAAAAAAAAAoAAADlvoDkuIt0aWFv",
+					"AQAAAAAAAAABAAAAExQAAAAAAAATFAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					246,
+					1,
+					"",
+					null,
+					"AQAAABYUAAAAAAAAFxQAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAFhQAAAAAAAAWFAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					253,
+					1,
+					"insert",
+					{
+						"characters": "-"
+					},
+					"AwAAAGgUAAAAAAAAaRQAAAAAAAAAAAAAWxQAAAAAAABcFAAAAAAAAAAAAABCFAAAAAAAAEMUAAAAAAAAAAAAAA",
+					"AQAAAAAAAAADAAAAQhQAAAAAAABCFAAAAAAAAAAAAAAAAPC/WxQAAAAAAABbFAAAAAAAAAAAAAAAAPC/aBQAAAAAAABoFAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					257,
+					1,
+					"sequence",
+					{
+						"commands":
+						[
+						]
+					},
+					"DAAAAEMUAAAAAAAARBQAAAAAAAAAAAAAXhQAAAAAAABfFAAAAAAAAAAAAABtFAAAAAAAAG4UAAAAAAAAAAAAAEMUAAAAAAAARRQAAAAAAAABAAAAZ18UAAAAAAAAYRQAAAAAAAABAAAAZ28UAAAAAAAAcRQAAAAAAAABAAAAZ0MUAAAAAAAARhQAAAAAAAACAAAAZ2FgFAAAAAAAAGMUAAAAAAAAAgAAAGdhcRQAAAAAAAB0FAAAAAAAAAIAAABnYUMUAAAAAAAARBQAAAAAAAADAAAAZ2FpXhQAAAAAAABfFAAAAAAAAAMAAABnYWltFAAAAAAAAG4UAAAAAAAAAwAAAGdhaQ",
+					"AQAAAAAAAAADAAAAQxQAAAAAAABDFAAAAAAAAAAAAAAAAPC/XRQAAAAAAABdFAAAAAAAAAAAAAAAAPC/axQAAAAAAABrFAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					263,
+					1,
+					"sequence",
+					{
+						"commands":
+						[
+						]
+					},
+					"BAAAABcUAAAAAAAAGBQAAAAAAAAAAAAAFxQAAAAAAAAZFAAAAAAAAAEAAAB6FxQAAAAAAAAaFAAAAAAAAAIAAAB6YRcUAAAAAAAAGBQAAAAAAAADAAAAemFp",
+					"AQAAAAAAAAABAAAAFxQAAAAAAAAXFAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					272,
+					1,
+					"sequence",
+					{
+						"commands":
+						[
+						]
+					},
+					"CQAAABgUAAAAAAAAGRQAAAAAAAAAAAAAGBQAAAAAAAAaFAAAAAAAAAEAAABqGBQAAAAAAAAbFAAAAAAAAAIAAABqaRgUAAAAAAAAHRQAAAAAAAADAAAAamlhGBQAAAAAAAAeFAAAAAAAAAUAAABqaWEncxgUAAAAAAAAHxQAAAAAAAAGAAAAamlhJ3NoGBQAAAAAAAAgFAAAAAAAAAcAAABqaWEnc2hhGBQAAAAAAAAhFAAAAAAAAAgAAABqaWEnc2hhbhgUAAAAAAAAGhQAAAAAAAAJAAAAamlhJ3NoYW5n",
+					"AQAAAAAAAAABAAAAGBQAAAAAAAAYFAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					280,
+					1,
+					"sequence",
+					{
+						"commands":
+						[
+						]
+					},
+					"CAAAABoUAAAAAAAAGxQAAAAAAAAAAAAAGhQAAAAAAAAcFAAAAAAAAAEAAABmGhQAAAAAAAAeFAAAAAAAAAIAAABmdRoUAAAAAAAAHxQAAAAAAAAEAAAAZnUnehoUAAAAAAAAIBQAAAAAAAAFAAAAZnUnemgaFAAAAAAAACIUAAAAAAAABgAAAGZ1J3poaRoUAAAAAAAAIxQAAAAAAAAIAAAAZnUnemhpJ2waFAAAAAAAAB0UAAAAAAAACQAAAGZ1J3poaSdsZQ",
+					"AQAAAAAAAAABAAAAGhQAAAAAAAAaFAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					292,
+					1,
+					"sequence",
+					{
+						"commands":
+						[
+						]
+					},
+					"DAAAAB0UAAAAAAAAHhQAAAAAAAAAAAAAHRQAAAAAAAAfFAAAAAAAAAEAAABzHRQAAAAAAAAgFAAAAAAAAAIAAABzaB0UAAAAAAAAIRQAAAAAAAADAAAAc2hvHRQAAAAAAAAjFAAAAAAAAAQAAABzaG91HRQAAAAAAAAkFAAAAAAAAAYAAABzaG91J3MdFAAAAAAAACUUAAAAAAAABwAAAHNob3Unc2gdFAAAAAAAACcUAAAAAAAACAAAAHNob3Unc2hlHRQAAAAAAAAlFAAAAAAAAAoAAABzaG91J3NoZSd1HRQAAAAAAAAnFAAAAAAAAAgAAABzaG91J3NoZR0UAAAAAAAAKBQAAAAAAAAKAAAAc2hvdSdzaGUndB0UAAAAAAAAIBQAAAAAAAALAAAAc2hvdSdzaGUndHU",
+					"AQAAAAAAAAABAAAAHRQAAAAAAAAdFAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					300,
+					1,
+					"sequence",
+					{
+						"commands":
+						[
+						]
+					},
+					"CAAAACAUAAAAAAAAIRQAAAAAAAAAAAAAIBQAAAAAAAAiFAAAAAAAAAEAAAB6IBQAAAAAAAAjFAAAAAAAAAIAAAB6aCAUAAAAAAAAJBQAAAAAAAADAAAAemhvIBQAAAAAAAAlFAAAAAAAAAQAAAB6aG9uIBQAAAAAAAAnFAAAAAAAAAUAAAB6aG9uZyAUAAAAAAAAKBQAAAAAAAAHAAAAemhvbmcnZCAUAAAAAAAAIhQAAAAAAAAIAAAAemhvbmcnZGU",
+					"AQAAAAAAAAABAAAAIBQAAAAAAAAgFAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					309,
+					1,
+					"sequence",
+					{
+						"commands":
+						[
+						]
+					},
+					"CQAAACIUAAAAAAAAIxQAAAAAAAAAAAAAIhQAAAAAAAAkFAAAAAAAAAEAAAB5IhQAAAAAAAAlFAAAAAAAAAIAAAB5aSIUAAAAAAAAJhQAAAAAAAADAAAAeWluIhQAAAAAAAAoFAAAAAAAAAQAAAB5aW5nIhQAAAAAAAApFAAAAAAAAAYAAAB5aW5nJ2oiFAAAAAAAACoUAAAAAAAABwAAAHlpbmcnamkiFAAAAAAAACsUAAAAAAAACAAAAHlpbmcnamluIhQAAAAAAAAkFAAAAAAAAAkAAAB5aW5nJ2ppbmc",
+					"AQAAAAAAAAABAAAAIhQAAAAAAAAiFAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					310,
+					1,
+					"",
+					null,
+					"AQAAACQUAAAAAAAAJRQAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAJBQAAAAAAAAkFAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					317,
+					1,
+					"sequence",
+					{
+						"commands":
+						[
+						]
+					},
+					"BwAAACUUAAAAAAAAJhQAAAAAAAAAAAAAJRQAAAAAAAAnFAAAAAAAAAEAAAB4JRQAAAAAAAAoFAAAAAAAAAIAAAB4aSUUAAAAAAAAKRQAAAAAAAADAAAAeGlhJRQAAAAAAAArFAAAAAAAAAQAAAB4aWFuJRQAAAAAAAAsFAAAAAAAAAYAAAB4aWFuJ2QlFAAAAAAAACcUAAAAAAAABwAAAHhpYW4nZGU",
+					"AQAAAAAAAAABAAAAJRQAAAAAAAAlFAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					325,
+					1,
+					"sequence",
+					{
+						"commands":
+						[
+						]
+					},
+					"CAAAACcUAAAAAAAAKBQAAAAAAAAAAAAAJxQAAAAAAAApFAAAAAAAAAEAAAB5JxQAAAAAAAAqFAAAAAAAAAIAAAB5bycUAAAAAAAALBQAAAAAAAADAAAAeW91JxQAAAAAAAAtFAAAAAAAAAUAAAB5b3UnZCcUAAAAAAAALhQAAAAAAAAGAAAAeW91J2RpJxQAAAAAAAAvFAAAAAAAAAcAAAB5b3UnZGlhJxQAAAAAAAApFAAAAAAAAAgAAAB5b3UnZGlhbg",
+					"AQAAAAAAAAABAAAAJxQAAAAAAAAnFAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					330,
+					1,
+					"sequence",
+					{
+						"commands":
+						[
+						]
+					},
+					"BQAAACkUAAAAAAAAKhQAAAAAAAAAAAAAKRQAAAAAAAArFAAAAAAAAAEAAAB4KRQAAAAAAAAsFAAAAAAAAAIAAAB4aSkUAAAAAAAALRQAAAAAAAADAAAAeGlhKRQAAAAAAAAqFAAAAAAAAAQAAAB4aWFv",
+					"AQAAAAAAAAABAAAAKRQAAAAAAAApFAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					337,
+					1,
+					"sequence",
+					{
+						"commands":
+						[
+						]
+					},
+					"BwAAACoUAAAAAAAAKxQAAAAAAAAAAAAAKhQAAAAAAAAsFAAAAAAAAAEAAABxKhQAAAAAAAAtFAAAAAAAAAIAAABxaSoUAAAAAAAALhQAAAAAAAADAAAAcWlhKhQAAAAAAAAwFAAAAAAAAAQAAABxaWFvKhQAAAAAAAAxFAAAAAAAAAYAAABxaWFvJ3AqFAAAAAAAACwUAAAAAAAABwAAAHFpYW8ncGk",
+					"AQAAAAAAAAABAAAAKhQAAAAAAAAqFAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					338,
+					1,
+					"",
+					null,
+					"AQAAACwUAAAAAAAALRQAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAALBQAAAAAAAAsFAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					356,
+					1,
+					"sequence",
+					{
+						"commands":
+						[
+						]
+					},
+					"DwAAACUUAAAAAAAAJhQAAAAAAAAAAAAAJRQAAAAAAAAnFAAAAAAAAAEAAAByJRQAAAAAAAAoFAAAAAAAAAIAAAByYSUUAAAAAAAAKRQAAAAAAAADAAAAcmFuJRQAAAAAAAArFAAAAAAAAAQAAAByYW5nJRQAAAAAAAAsFAAAAAAAAAYAAAByYW5nJ3olFAAAAAAAAC0UAAAAAAAABwAAAHJhbmcnemglFAAAAAAAAC8UAAAAAAAACAAAAHJhbmcnemhlJRQAAAAAAAAwFAAAAAAAAAoAAAByYW5nJ3poZSd6JRQAAAAAAAAxFAAAAAAAAAsAAAByYW5nJ3poZSd6aCUUAAAAAAAAMhQAAAAAAAAMAAAAcmFuZyd6aGUnemhhJRQAAAAAAAAzFAAAAAAAAA0AAAByYW5nJ3poZSd6aGFuJRQAAAAAAAA1FAAAAAAAAA4AAAByYW5nJ3poZSd6aGFuZyUUAAAAAAAANhQAAAAAAAAQAAAAcmFuZyd6aGUnemhhbmcndCUUAAAAAAAAKRQAAAAAAAARAAAAcmFuZyd6aGUnemhhbmcndHU",
+					"AQAAAAAAAAABAAAAJRQAAAAAAAAlFAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					359,
+					1,
+					"left_delete",
+					null,
+					"AQAAABcUAAAAAAAAFxQAAAAAAAADAAAA5Zyo",
+					"AQAAAAAAAAABAAAAGBQAAAAAAAAYFAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					363,
+					1,
+					"sequence",
+					{
+						"commands":
+						[
+						]
+					},
+					"BAAAABcUAAAAAAAAGBQAAAAAAAAAAAAAFxQAAAAAAAAZFAAAAAAAAAEAAAB6FxQAAAAAAAAaFAAAAAAAAAIAAAB6YRcUAAAAAAAAGBQAAAAAAAADAAAAemFp",
+					"AQAAAAAAAAABAAAAFxQAAAAAAAAXFAAAAAAAAAAAAAAAAPC/"
+				]
+			]
+		},
+		{
+			"file": "html/price.html",
+			"settings":
+			{
+				"buffer_size": 7728,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			},
+			"undo_stack":
+			[
+				[
+					27,
+					1,
+					"insert",
+					{
+						"characters": "\n"
+					},
+					"AQAAANgTAAAAAAAA2xMAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAA2BMAAAAAAADYEwAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					29,
+					1,
+					"paste",
+					null,
+					"AQAAANkTAAAAAAAAxRYAAAAAAAADAAAACQkK",
+					"AQAAAAAAAAABAAAA2RMAAAAAAADcEwAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					41,
+					1,
+					"insert",
+					{
+						"characters": "\n"
+					},
+					"AgAAAO0VAAAAAAAA8RUAAAAAAAAAAAAAehQAAAAAAAB+FAAAAAAAAAAAAAA",
+					"AQAAAAAAAAACAAAAehQAAAAAAAB6FAAAAAAAAAAAAAAAAPC/7RUAAAAAAADtFQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					47,
+					1,
+					"paste",
+					null,
+					"AQAAAHsUAAAAAAAApBQAAAAAAAAEAAAACQkJCg",
+					"AQAAAAAAAAABAAAAexQAAAAAAAB/FAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					50,
+					1,
+					"paste",
+					null,
+					"AQAAABcWAAAAAAAAQBYAAAAAAAAEAAAACQkJCg",
+					"AQAAAAAAAAABAAAAFxYAAAAAAAAbFgAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					55,
+					3,
+					"left_delete",
+					null,
+					"BgAAADoWAAAAAAAAOhYAAAAAAAABAAAANZ4UAAAAAAAAnhQAAAAAAAABAAAANTgWAAAAAAAAOBYAAAAAAAABAAAAMZ0UAAAAAAAAnRQAAAAAAAABAAAAMTYWAAAAAAAANhYAAAAAAAABAAAAM5wUAAAAAAAAnBQAAAAAAAABAAAAMw",
+					"AQAAAAAAAAACAAAAnxQAAAAAAACfFAAAAAAAAAAAAAAAAPC/OxYAAAAAAAA7FgAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					58,
+					1,
+					"sequence",
+					{
+						"commands":
+						[
+						]
+					},
+					"BgAAAJwUAAAAAAAAnRQAAAAAAAAAAAAANhYAAAAAAAA3FgAAAAAAAAAAAACcFAAAAAAAAJ4UAAAAAAAAAQAAAHc3FgAAAAAAADkWAAAAAAAAAQAAAHecFAAAAAAAAJ0UAAAAAAAAAgAAAHd1NhYAAAAAAAA3FgAAAAAAAAIAAAB3dQ",
+					"AQAAAAAAAAACAAAAnBQAAAAAAACcFAAAAAAAAAAAAAAAAPC/NRYAAAAAAAA1FgAAAAAAAAAAAAAAAPC/"
+				]
+			]
+		},
+		{
+			"file": "html/lore.html",
+			"settings":
+			{
+				"buffer_size": 3742,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			},
+			"undo_stack":
+			[
+				[
+					3,
+					1,
+					"insert",
+					{
+						"characters": "\n"
+					},
+					"AQAAAAwNAAAAAAAADw0AAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAADA0AAAAAAAAMDQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					5,
+					1,
+					"paste",
+					null,
+					"AQAAAA0NAAAAAAAAhg4AAAAAAAADAAAACQkK",
+					"AQAAAAAAAAABAAAADQ0AAAAAAAAQDQAAAAAAAAAAAAAAAPC/"
+				]
+			]
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+		[
+			[
+				[
+					"Packages/Python/Python.sublime-build",
+					""
+				],
+				[
+					"Packages/Python/Python.sublime-build",
+					"Syntax Check"
+				]
+			],
+			[
+				"Packages/Python/Python.sublime-build",
+				""
+			]
+		]
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"Package Control: Remove Package",
+				"Package Control: Remove Package"
+			],
+			[
+				"gitadd",
+				"Git: Add All"
+			],
+			[
+				"git",
+				"Git: Commit"
+			],
+			[
+				"git:add",
+				"Git: Add All"
+			],
+			[
+				"gi",
+				"Git: Commit"
+			],
+			[
+				"pcip",
+				"Package Control: Install Package"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"view",
+				"View: Toggle Menu"
+			],
+			[
+				"pro",
+				"PackageResourceViewer: Open Resource"
+			],
+			[
+				"ssc",
+				"Set Syntax: CustomSyntax"
+			],
+			[
+				"sscus",
+				"Set Syntax: CustomSyntax"
+			],
+			[
+				"prop",
+				"PackageResourceViewer: Open Resource"
+			],
+			[
+				"pror",
+				"PackageResourceViewer: Open Resource"
+			],
+			[
+				"ip",
+				"Package Control: Install Package"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 164.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; \nh = '6f6b2c2cfc1eaa0779d7b5e5359f8d436ac5e39fbe01517a1d6fb4b62d5f7c39'; \npf = 'Package Control.sublime-package'; \nipp = sublime.installed_packages_path(); \nurllib.request.install_opener(urllib.request.build_opener(urllib.request.ProxyHandler())); \nby = urllib.request.urlopen('https://packagecontrol.io/' + pf.replace(' ', '%20')).read(); \ndh = hashlib.sha256(by).hexdigest(); \nprint('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join(ipp, pf), 'wb').write(by)\n"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/C/OneDrive/Github/MyWebsite",
+		"/C/OneDrive/Github/MyWebsite/html",
+		"/C/OneDrive/Github/MyWebsite/js"
+	],
+	"file_history":
+	[
+		"/C/OneDrive/Github/MyWebsite/html/erotic.html",
+		"/C/OneDrive/Github/MyWebsite/js/waterfall.js",
+		"/C/OneDrive/Github/MyWebsite/html/lore.html",
+		"/C/OneDrive/Github/MyWebsite/html/general.html",
+		"/C/OneDrive/Github/MyWebsite/html/funny.html",
+		"/C/OneDrive/Github/MyWebsite/html/all.html",
+		"/C/OneDrive/Github/MyWebsite/html/price.html",
+		"/C/OneDrive/Github/MyWebsite/style.css",
+		"/C/OneDrive/Github/MyWebsite/html/calculator.html",
+		"/C/OneDrive/桌面/新建 文本文档.txt",
+		"/C/OneDrive/Github/MyWebsite/js/calculator.js",
+		"/C/OneDrive/Specialty/Sublime Text/Data/Packages/Default/Preferences.sublime-settings",
+		"/C/OneDrive/Specialty/Sublime Text/Data/Packages/User/Preferences.sublime-settings",
+		"/C/OneDrive/桌面/1.py",
+		"/C/OneDrive/Github/MyWebsite/index.html",
+		"/C/OneDrive/Github/MyWebsite/price.html",
+		"/C/OneDrive/Github/MyWebsite/html/set.html",
+		"/C/OneDrive/Github/MyWebsite/html/r18.html",
+		"/C/OneDrive/Github/MyWebsite/html/gen.html",
+		"/C/OneDrive/Github/MyWebsite/html/fun.html",
+		"/C/OneDrive/桌面/代理.yaml",
+		"/C/OneDrive/文档/Study/信息技术/python/笔记.py",
+		"/C/All/Downloads/a285da61bc19f2c50a050c9b459465d9.txt",
+		"/C/All/Apps/Steam/steamapps/common/RimWorld/Data/Royalty/Defs/ThingDefs_Misc/Weapons/MeleeUltratech.xml",
+		"/C/All/Apps/Steam/steamapps/common/RimWorld/Mods/兽族/1.6/Defs/装备/远程/血疾弓.xml",
+		"/C/All/Apps/Steam/steamapps/common/RimWorld/Mods/兽族/1.6/Defs/装备/近战/血疾剑.xml",
+		"/C/All/Apps/Steam/steamapps/common/RimWorld/Data/Core/Defs/ThingDefs_Races/Races_Humanlike.xml",
+		"/C/All/Apps/Steam/steamapps/common/RimWorld/Data/Core/Defs/ThingDefs_Misc/Weapons/RangedNeolithic.xml",
+		"/C/Users/Saint/AppData/LocalLow/Mad Mango Games/Knightica/Save/Savefile.json",
+		"/C/All/Apps/Knightica/Settings.ini",
+		"/C/All/Apps/Steam/steamapps/common/RimWorld/Mods/兽族/1.5/Defs/装备/概念.xml",
+		"/C/Users/Saint/AppData/LocalLow/Mad Mango Games/Knightica/eventcache",
+		"/C/All/Apps/Knightica/EULA.txt",
+		"/C/All/Apps/Steam/steamapps/common/RimWorld/Mods/定期吃饭/About/About.xml",
+		"/C/All/Apps/Steam/steamapps/common/RimWorld/Mods/兽族/Mods/异象/Defs/物品/再造躯体.xml",
+		"/C/OneDrive/桌面/自定义桌宠/说明.txt",
+		"/C/OneDrive/桌面/自定义桌宠/配置.xml",
+		"/C/Users/Saint/AppData/Local/Temp/7zO895D2F39/说明.txt",
+		"/C/Users/Saint/AppData/Local/Temp/7zO89526862/说明.txt",
+		"/C/Users/Saint/AppData/Local/Temp/7zO895A70D3/说明.txt",
+		"/C/OneDrive/桌面/自定义桌宠/desktop.ini",
+		"/C/OneDrive/桌面/自定义桌宠/1.py",
+		"/C/All/Apps/1.py",
+		"/C/All/Apps/desktop.ini",
+		"/C/All/Downloads/COneDrive桌面MDP1.exe.txt",
+		"/C/OneDrive/桌面/MDP/1.py",
+		"/C/OneDrive/桌面/MDP/说明.txt",
+		"/C/OneDrive/桌面/MDP/配置.xml",
+		"/C/All/main.py",
+		"/C/All/Apps/Steam/steamapps/common/RimWorld/Mods/好日子-饮食/Defs/心情.xml",
+		"/C/OneDrive/桌面/2.py",
+		"/C/OneDrive/桌面/MDP/config.xml",
+		"/C/OneDrive/桌面/mian.py",
+		"/C/OneDrive/桌面/eg.xml",
+		"/C/All/Apps/Steam/steamapps/common/RimWorld/Mods/兽族/1.6/Defs/兵种/哺乳.xml",
+		"/C/All/Apps/Steam/steamapps/common/RimWorld/Mods/兽族/1.6/Defs/兵种/龙.xml",
+		"/C/All/Apps/Steam/steamapps/common/RimWorld/Mods/异象/LoadFolders.xml",
+		"/C/All/Apps/Steam/steamapps/common/RimWorld/Mods/兽族/LoadFolders.xml",
+		"/C/All/Apps/Steam/steamapps/common/RimWorld/Data/Anomaly/Defs/Misc/Mutants.xml",
+		"/C/All/Apps/Steam/steamapps/common/RimWorld/Mods/异象/Defs/开局.xml",
+		"/C/All/Apps/Steam/steamapps/common/RimWorld/Mods/兽族/Defs/基因/血统.xml",
+		"/C/All/Apps/Steam/steamapps/common/RimWorld/Data/Core/Defs/Scenarios/Scenarios_Classic.xml",
+		"/C/All/Apps/Steam/steamapps/common/RimWorld/Mods/异象/About/About.xml",
+		"/C/All/Apps/Steam/steamapps/common/RimWorld/Mods/兽族/About/About.xml",
+		"/C/All/Apps/Steam/steamapps/common/RimWorld/Mods/兽族/Defs/概念/开局.xml",
+		"/C/All/Apps/Steam/steamapps/common/RimWorld/Mods/异象/Defs/异象/教徒.xml",
+		"/C/All/Apps/Steam/steamapps/common/RimWorld/Mods/异象/Defs/异象/教主.xml",
+		"/C/All/Apps/Steam/steamapps/common/RimWorld/Data/Anomaly/Defs/HediffDefs/Hediffs_Global_Misc.xml",
+		"/C/All/Apps/Steam/steamapps/common/RimWorld/Mods/异象/Defs/异象/叛教者.xml",
+		"/C/All/Apps/Steam/steamapps/common/RimWorld/Mods/异象/Defs/状态/赐福.xml",
+		"/C/All/Apps/Steam/steamapps/common/RimWorld/Mods/3332677045/About/About.xml",
+		"/C/All/Apps/Steam/steamapps/common/RimWorld/Mods/兽族/Defs/状态/共生体器官.xml",
+		"/C/All/Apps/Plague Inc Evolved v1.21.0.3/ScenarioCreator/PlagueIncSC_Data/level0",
+		"/C/All/Apps/Plague Inc Evolved v1.21.0.3/PlagueIncEvolved_Data/Plugins/x86_64/steam_settings/stats.txt",
+		"/C/All/Downloads/1.py",
+		"/C/All/Downloads/adg_ext_user_rules_5.1.139_260825-172845.txt",
+		"/C/All/Apps/Plague Inc Evolved v1.21.0.3/Settings.ini",
+		"/C/All/Apps/Dawn-of-Corruption-Site-master/CN0.7.3.html",
+		"/C/All/Apps/Dawn-of-Corruption-Site-master/Releases/0.11.5.html",
+		"/C/All/Apps/Dawn-of-Corruption-Site-master/Releases/CN/CN0.7.3.html",
+		"/C/All/Apps/Dawn-of-Corruption-Site-master/Releases/0.7.3.html",
+		"/C/All/Apps/Dawn-of-Corruption-Site-master/Releases/CN/CN0.7.5.html",
+		"/C/All/Apps/Dawn-of-Corruption-Site-master/index.html",
+		"/C/OneDrive/桌面/新建文件夹/input.html",
+		"/C/OneDrive/桌面/新建文件夹/translate_html.py",
+		"/C/All/Downloads/Dawn-of-Corruption-Site-master/Releases/CN/CN0.7.3.html",
+		"/C/All/Downloads/Dawn-of-Corruption-Site-master/index.html",
+		"/C/All/Downloads/Dawn-of-Corruption-Site-CN-master/CN_Releases/CN0.7.3.html",
+		"/C/All/Downloads/Dawn-of-Corruption-Site-CN-master/CN_Releases/CN0.8.1(abandon).html",
+		"/C/All/Downloads/Dawn-of-Corruption-Site-CN-master/CN_Releases/CN0.7.8(abandon).html",
+		"/C/All/Downloads/Dawn-of-Corruption-Site-CN-master/CN_Releases/CN0.7.5.html",
+		"/C/All/Downloads/Dawn-of-Corruption-Site-CN-master/CN_Releases/CN0.9.0(stopped).html",
+		"/C/All/Downloads/Dawn-of-Corruption-Site-CN-master/README.md",
+		"/C/All/Downloads/Dawn-of-Corruption-Site-master/Releases/CN/CN0.9.0(stopped).html",
+		"/C/All/Apps/Steam/steamapps/common/RimWorld/Mods/好日子-饮食/Defs/状态.xml",
+		"/C/All/Downloads/Dawn-of-Corruption-Site-master/Releases/CN/CN0.7.5.html",
+		"/C/OneDrive/桌面/好日子-饮食/Defs/状态.xml",
+		"/C/All/Apps/Steam/steamapps/common/RimWorld/Mods/3294608660/Defs/状态/永久强化.xml",
+		"/C/All/Apps/Steam/steamapps/common/RimWorld/Mods/3294608660/Defs/状态/共生体器官.xml",
+		"/C/All/Apps/Steam/steamapps/common/RimWorld/Mods/3294608660/Defs/状态/共生体症状.xml",
+		"/C/All/Apps/Steam/steamapps/common/RimWorld/Data/Core/Defs/Drugs/WakeUp.xml",
+		"/C/All/Apps/Steam/steamapps/common/RimWorld/Data/Anomaly/Defs/HediffDefs/Hediffs_BodyParts_Prosthetic.xml",
+		"/C/All/Apps/Steam/steamapps/common/RimWorld/Data/Royalty/Defs/HediffDefs/Hediffs_Psycasts.xml",
+		"/C/All/Apps/Steam/steamapps/common/RimWorld/Data/Core/Defs/HediffDefs/Hediffs_Local_Chronic.xml",
+		"/C/All/Apps/Steam/steamapps/common/RimWorld/Data/Royalty/Defs/HediffDefs/Hediffs_BodyParts_Bionic_Empire.xml",
+		"/C/OneDrive/桌面/好日子-饮食/About/About.xml",
+		"/C/OneDrive/桌面/好日子-饮食/Defs/规律饮食.xml",
+		"/C/All/Apps/Steam/steamapps/common/RimWorld/Mods/定期吃饭/Defs/Misc/MainButtonDef.xml",
+		"/C/All/Apps/Steam/steamapps/common/RimWorld/Mods/杂七杂八/Patches/原版补丁.xml",
+		"/C/All/Apps/Steam/steamapps/common/RimWorld/Data/Royalty/Defs/RoyalTitles/RoyalTitles_Empire.xml",
+		"/C/logUploaderSettings.ini",
+		"/C/All/Apps/Steam/steamapps/common/RimWorld/Mods/杂七杂八/Defs/血肉身躯.xml",
+		"/C/OneDrive/桌面/规律饮食.xml",
+		"/C/All/Apps/Steam/steamapps/common/RimWorld/Data/Core/Defs/TraitDefs/Traits_Singular.xml",
+		"/C/All/Rimworld/ChineseSimplified (简体中文)/DefInjected/PreceptDef/Precepts_RoughLiving.xml",
+		"/C/All/Rimworld/ChineseSimplified (简体中文)/DefInjected/PreceptDef/Precepts_Comfort.xml",
+		"/C/All/Apps/Steam/steamapps/common/RimWorld/Data/Core/Defs/ThoughtDefs/Thoughts_Situation_Traits.xml",
+		"/C/All/Apps/Steam/steamapps/common/RimWorld/Data/Core/Defs/ThingDefs_Buildings/Buildings_Furniture.xml",
+		"/C/All/Apps/Steam/steamapps/common/RimWorld/Data/Royalty/Defs/Rooms/RoomRoles.xml",
+		"/C/All/Apps/Steam/steamapps/common/RimWorld/Data/Core/Defs/ThoughtDefs/Thoughts_Memory_Misc.xml",
+		"/C/All/Apps/Steam/steamapps/common/RimWorld/Data/Core/Defs/ThoughtDefs/Thoughts_Situation_Special.xml",
+		"/C/All/Apps/Steam/steamapps/common/RimWorld/Data/Anomaly/Defs/PreceptDefs/Precepts_Inhumanizing.xml",
+		"/C/All/Apps/Steam/steamapps/common/RimWorld/Data/Odyssey/Defs/ThingDefs_Buildings/Buildings_Gravship.xml",
+		"/C/All/Apps/Steam/steamapps/common/RimWorld/Data/Anomaly/Defs/TraitDefs/Traits.xml",
+		"/C/Users/Saint/AppData/LocalLow/Ludeon Studios/RimWorld by Ludeon Studios/Saves/探索者 （永久死亡模式）.rws",
+		"/C/Users/Saint/AppData/LocalLow/Ludeon Studios/RimWorld by Ludeon Studios/ModLists/这是为什么.rml",
+		"/C/All/Rimworld/ChineseSimplified (简体中文)/DefInjected/HediffDef/Hediffs_Global_Misc_3.xml",
+		"/C/All/Apps/Steam/steamapps/common/RimWorld/Data/Anomaly/Defs/HediffDefs/Hediffs_Mutants.xml"
+	],
+	"find":
+	{
+		"height": 29.3333333333
+	},
+	"find_in_files":
+	{
+		"height": 146.0,
+		"where_history":
+		[
+			"C:\\OneDrive\\Github\\MyWebsite\\html"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"box",
+			"\"text_tight\">￥",
+			"\"text_tight\">价格",
+			"\"text\">价格：",
+			"111",
+			"完成时间：",
+			"\"text\">作者：",
+			"他人"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"\"text_tight\"><br>价格：￥",
+			"\"text_tight\"><br>价格",
+			"\"text_tight\">价格：",
+			"完成日期：",
+			"\"text_tight\">作者：",
+			"\"author\">作者：",
+			"其他个体"
+		],
+		"reverse": false,
+		"scrollbar_highlights": true,
+		"show_context": true,
+		"use_buffer2": true,
+		"use_gitignore": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "html/all.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 7076,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								4530,
+								4907
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 1652.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"stack_multiselect": false,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "html/price.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 7728,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								5277,
+								5277
+							],
+							[
+								5687,
+								5687
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 1694.66666667,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"stack_multiselect": false,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "html/lore.html",
+					"selected": true,
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 3742,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								3718,
+								3718
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 612.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"stack_multiselect": false,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 29.3333333333
+	},
+	"input":
+	{
+		"height": 78.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 132.0,
+		"history":
+		[
+			"1000",
+			"9000",
+			"1000",
+			"1",
+			"8000",
+			"1000",
+			"8000",
+			"1000",
+			"8000",
+			"1000",
+			"8000",
+			"1000",
+			"8000",
+			"1000",
+			"700",
+			"1000",
+			"7000",
+			"1000",
+			"7000",
+			"1000",
+			"8400",
+			"1030",
+			"8000",
+			"1000",
+			"8000",
+			"1000",
+			"1",
+			"1000",
+			"8000",
+			"1000",
+			"8000",
+			"1000",
+			"8000",
+			"1000",
+			"8000",
+			"1000",
+			"8000",
+			"1000",
+			"8000",
+			"1000",
+			"8000",
+			"1000",
+			"8000",
+			"1000"
+		]
+	},
+	"output.find_results":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"output.git":
+	{
+		"height": 142.0,
+		"history":
+		[
+		]
+	},
+	"pinned_build_system": "Packages/Python/Python.sublime-build",
+	"project": "MyWebsite.sublime-project",
+	"replace":
+	{
+		"height": 54.6666666667
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 162.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
